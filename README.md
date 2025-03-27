@@ -3,7 +3,7 @@
 <p align="center">
   🌱 Desenvolvedora Front-End em formação <br>
   🎨 Designer nas horas vagas <br>
-  🛠️ Suporte na <a href="https://livepix.gg/">LivePix.gg</a> <br>
+  🛠️ Suporte e designer na <a href="https://livepix.gg/">LivePix.gg</a> <br>
 </p>
 
 ---
@@ -20,8 +20,8 @@
 ---
 
 ### ✨ Estatísticas do GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YueShinjishow_icons=true&theme=radical" alt="GitHub Stats" />
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=YueShinji&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YueShinji&theme=radical" alt="GitHub Streak" />
 </p>
