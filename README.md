@@ -3,7 +3,7 @@
 <p align="center">
   🌱 Desenvolvedora Front-End em formação <br>
   🎨 Designer nas horas vagas <br>
-  🛠️ Suporte e designer na <a href="https://livepix.gg/">LivePix.gg</a> <br>
+  🛠️ Suporte na <a href="https://livepix.gg/">LivePix.gg</a> <br>
 </p>
 
 ---
